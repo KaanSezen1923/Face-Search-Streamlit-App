@@ -10,7 +10,7 @@ Clone the repository:
 
 bash
 Kodu kopyala
-git clone https://github.com/your-username/face-searching-project.git
+git clone https://github.com/KaanSezen1923/Face-Search-Streamlit-App.git
 cd face-searching-project
 Create and activate a virtual environment:
 
