@@ -3,7 +3,7 @@ import face_recognition
 import pickle 
 import cv2 
 
-folder_path="veri setinizin yolunu girin."
+folder_path="Data"
 pathlist=os.listdir(folder_path)
 print(pathlist)
 images=[]
