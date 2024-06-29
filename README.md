@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
-Place the images you want to encode in a folder, e.g., `C:/Users/KAAN/Desktop/Data`.
+Place the images you want to encode in a folder, e.g., `Data`.
 
 Run the encoding script to generate the encoded data:
 ```bash
@@ -54,7 +54,8 @@ face-searching-project/
 ├── main.py                 # Streamlit application script
 ├── EncodeFile.p            # Encoded data file
 ├── requirements.txt        # Required Python packages
-└── README.md               # Project documentation
+└── README.md
+|__ Data              # Project documentation
 ```
 
 ## Scripts
