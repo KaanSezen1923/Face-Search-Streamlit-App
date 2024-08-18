@@ -49,6 +49,7 @@ Open the provided local URL in your web browser to use the application.
 ## Project Structure
 ```bash
 face-searching-project/
+face-searching-project/
 │
 ├── encode_faces.py         # Script to encode faces from the dataset
 ├── main.py                 # Streamlit application script
