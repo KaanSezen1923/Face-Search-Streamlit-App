@@ -4,6 +4,6 @@ streamlit
 numpy
 pillow
 cmake
-dlib==19.22.1
+dlib
 
 
